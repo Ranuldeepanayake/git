@@ -1,4 +1,5 @@
 import libs*;
 
 void main(){
+	printf("Hello world!");
 }
