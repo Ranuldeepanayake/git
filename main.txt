@@ -3,3 +3,7 @@ import libs*;
 void main(){
 	printf("Hello world!");
 }
+
+public int getInput(int var){
+	scanf("%d", &avar)
+}
