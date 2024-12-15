@@ -13,3 +13,7 @@ public int getInput(int var){
 public int add(int var){
 	return var + 10;
 }
+
+public int sub(int var){
+	return var - 5;
+}
