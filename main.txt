@@ -1,5 +1,7 @@
 import libs*;
 
+public int _var_a;
+
 void main(){
 	printf("Hello world!");
 }
