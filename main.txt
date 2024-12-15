@@ -9,3 +9,7 @@ void main(){
 public int getInput(int var){
 	scanf("%d", &avar)
 }
+
+public int add(int var){
+	return var + 10;
+}
